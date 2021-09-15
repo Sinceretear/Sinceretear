@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 Currently working on MarketZoom, a native iOS app
 - 🌱 I want to learn react js/ node js
-- 
+- :)
 <!--
 **Sinceretear/Sinceretear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
