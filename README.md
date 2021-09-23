@@ -3,7 +3,7 @@
 - 🌱 I want to learn react js/ node js
 - :P
 - - 😄 Pronouns: He / Him
-<!--
+<!--Current Class: Data Management Applications
 **Sinceretear/Sinceretear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
