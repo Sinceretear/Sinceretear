@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 Currently working on MarketZoom, a native iOS app
 - 🌱 I want to learn react js/ node js
-- Current Class: Data Management Applications - SQL
+- WGU: 60%
 - 😄 Pronouns: He / Him
 - 👯 I’m looking to collaborate on ... Ecommerce applications
 - 🤔 I’m looking for help with ...
