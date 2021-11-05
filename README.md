@@ -4,7 +4,7 @@
 - WGU: 60%
 - 😄 Pronouns: He / Him
 - 👯 I’m looking to collaborate on ... Ecommerce applications
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... Leetcode.
 <!--
 **Sinceretear/Sinceretear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
