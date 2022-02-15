@@ -5,7 +5,7 @@
 - 👯  I’m looking to collaborate on ... Ecommerce applications
 - 🤔  I’m looking for help with ... https://leetcode.com/Sinceretear/.
 - 💬 Ask me about ... MarketZoom on TestFlight!
-- 🤔 studying for WGU - [UI Design] x5
+- 🤔 studying for WGU - [UI Design] x6
 <!--
 **Sinceretear/Sinceretear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
