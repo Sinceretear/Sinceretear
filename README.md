@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭  Currently working on MarketZoom, a native iOS app
 - 🌱  I want to learn react js/ node js
-- 👨🏽‍🏫  WGU: 60%
+- 👨🏽‍🏫  WGU: 80%
 - 👯  I’m looking to collaborate on ... Ecommerce applications
 - 🤔  I’m looking for help with ... https://leetcode.com/Sinceretear/.
 - 💬 Ask me about ... MarketZoom on TestFlight!
