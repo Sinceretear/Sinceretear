@@ -4,7 +4,7 @@
 - 👨🏽‍🏫  WGU: 85%
 - 👯  I’m looking to collaborate on ... Ecommerce applications
 - 🤔  I’m looking for help with ... https://leetcode.com/Sinceretear/.
-- 💬 Ask me about ... MarketZoom on TestFlight!
+- 💬 Ask me about ... MarketZoom on TestFlight! (link: coming soon)
 - 🤔 studying for WGU - D&A l
 
 <!--
