@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭  Currently working on MarketTok, a native iOS app
 - 🌱  React Study - https://heroic-peony-ff319b.netlify.app/
-- 👨🏽‍🏫  WGU: 85%
+- 👨🏽‍🏫  WGU: 85% :P
 - 👯  I’m looking to collaborate on ... Ecommerce applications
 - 🤔  I’m looking for help with ... https://leetcode.com/Sinceretear/.
 - 💬 Ask me about ... MarketZoom on TestFlight! (link: coming soon)
