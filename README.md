@@ -4,7 +4,7 @@
 - 👨🏽‍🏫  WGU: 86% :P
 - 🤔  Algorithms ... https://leetcode.com/Sinceretear/
 - ⭐️             ... https://binarysearch.com/@/Sincereteaar
-- 💬 Ask me about ... MarketZoom on TestFlight! (link: coming soon)
+- 💬 Ask me about ... MarketZoom on TestFlight! 
 - 🤔 studying for WGU - D&A l
 
 <!--
