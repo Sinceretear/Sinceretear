@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭  Currently working on MarketTok, a native iOS app.
+- 🔭  Currently working on MarketTok, a native iOS app
 - 🌱  React Study - https://heroic-peony-ff319b.netlify.app/
 - 👨🏽‍🏫  WGU: 86% :P
 - 🤔  Algorithms ... https://leetcode.com/Sinceretear/
